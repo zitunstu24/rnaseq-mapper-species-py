@@ -1,0 +1,10 @@
+[tool.setuptools]
+name = "RnaseqMapper"
+version = "0.1.0"
+description = "RnaseqMapper for cross species"
+packages = [""]
+
+[tool.setuptools.entry-points]
+console_scripts = [
+    "RnaseqMapper=main:main"
+]

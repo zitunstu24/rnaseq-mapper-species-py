@@ -1,0 +1,2 @@
+PyYAML==6.0
+subprocess==0.0.5
